@@ -60,4 +60,34 @@ security fundamentals.
     <img src="https://img.shields.io/badge/TryHackMe-amine.sec-212C42?style=for-the-badge&logo=tryhackme" />
   </a>
 </p>
+---
+
+## 🛠️ Tools & Technologies
+
+### Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+</p>
+
+### Networking & Security
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" />
+</p>
+
+### Programming & System Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+</p>
 
