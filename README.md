@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm Amine, a cybersecurity enthusiast focused on understanding how
+I'm Amine, a cybersecurity learner focused on understanding how
 systems, networks, and applications work from the inside.
 
 I learn through hands-on labs, CTFs, personal projects, and virtual
@@ -22,12 +22,12 @@ environments.
 
 My current focus is building strong fundamentals in:
 
-- Linux & system administration
-- Networking & protocols
-- Python & automation
-- Web security
-- Security tooling
-- Penetration testing fundamentals
+* Linux & system administration
+* Networking & protocols
+* Python & automation
+* Web security
+* Security tooling
+* Penetration testing fundamentals
 
 ---
 
@@ -44,18 +44,18 @@ security fundamentals.
 
 ### CTF Practice
 
-- Mr Robot CTF
-- Pickle Rick
-- Simple CTF
+* Mr Robot CTF
+* Pickle Rick
+* Simple CTF
 
 ### Topics Practiced
 
-- Linux Fundamentals
-- Networking Fundamentals
-- Pentesting Fundamentals
-- Offensive Security
-- Defensive Security
-- Junior Security Analyst fundamentals
+* Linux fundamentals
+* Networking fundamentals
+* Pentesting fundamentals
+* Offensive security
+* Defensive security
+* Junior Security Analyst fundamentals
 
 <p>
   <a href="https://tryhackme.com/p/amine.sec">
@@ -115,14 +115,14 @@ security fundamentals.
 I'm currently strengthening my cybersecurity foundations through
 hands-on practice and structured learning.
 
-- Linux internals & system administration
-- TCP/IP networking & protocols
-- Python for security automation
-- Web application security
-- Enumeration & reconnaissance
-- Privilege escalation fundamentals
-- Security tooling & methodology
-- CTF problem solving
+* Linux internals & system administration
+* TCP/IP networking & protocols
+* Python for security automation
+* Web application security
+* Enumeration & reconnaissance
+* Privilege escalation fundamentals
+* Security tooling & methodology
+* CTF problem solving
 
 ---
 
@@ -133,36 +133,36 @@ as I progress.
 
 ### 🧪 TryHackMe
 
-- Mr Robot CTF
-- Pickle Rick
-- Simple CTF
+* Mr Robot CTF
+* Pickle Rick
+* Simple CTF
 
 ### 🐧 Linux & System Labs
 
-- Processes & PIDs
-- Signals
-- Users & groups
-- File permissions
-- Services & system administration
+* Processes & PIDs
+* Signals
+* Users & groups
+* File permissions
+* Services & system administration
 
 ### 🌐 Networking Labs
 
-- TCP / UDP
-- IP & MAC addressing
-- ARP
-- DNS
-- Ports & services
-- Nmap
-- Python sockets
+* TCP / UDP
+* IP & MAC addressing
+* ARP
+* DNS
+* Ports & services
+* Nmap
+* Python sockets
 
 ### 🌐 Web Security Labs
 
-- HTTP / HTTPS
-- Requests & responses
-- Cookies & sessions
-- Burp Suite
-- SQL injection fundamentals
-- XSS fundamentals
+* HTTP / HTTPS
+* Requests & responses
+* Cookies & sessions
+* Burp Suite
+* SQL injection fundamentals
+* XSS fundamentals
 
 ---
 
@@ -172,21 +172,21 @@ as I progress.
 
 Small Python projects focused on:
 
-- Network communication
-- Socket programming
-- System interaction
-- Automation
-- Security-related utilities
+* Network communication
+* Socket programming
+* System interaction
+* Automation
+* Security-related utilities
 
 ### 🖥️ Virtual Security Labs
 
 Self-hosted virtual environments used to practice:
 
-- Linux administration
-- Windows security
-- Networking
-- Security tooling
-- Client/server communication
+* Linux administration
+* Windows security
+* Networking
+* Security tooling
+* Client/server communication
 
 > Projects and documentation will be added as they are built.
 
@@ -194,15 +194,15 @@ Self-hosted virtual environments used to practice:
 
 ## 🎯 Current Direction
 
-I'm building toward a strong technical foundation in cybersecurity
+I'm building a strong technical foundation in cybersecurity,
 with a focus on understanding systems rather than simply using tools.
 
 My long-term areas of interest include:
 
-- Penetration Testing
-- Red Teaming
-- Reverse Engineering
-- Blue Team / Defensive Security
+* Penetration Testing
+* Red Teaming
+* Reverse Engineering
+* Blue Team / Defensive Security
 
 ---
 
