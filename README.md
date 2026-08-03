@@ -56,7 +56,7 @@ security fundamentals.
 - Junior Security Analyst fundamentals
 
 <p>
-  <a href="https://tryhackme.com/">
+  <a href="https://tryhackme.com/manage-account/teams?joinTeam=fe6e46f924">
     <img src="https://img.shields.io/badge/TryHackMe-amine.sec-212C42?style=for-the-badge&logo=tryhackme" />
   </a>
 </p>
