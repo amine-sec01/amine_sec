@@ -9,6 +9,7 @@
 </p>
 
 </div>
+
 ---
 
 ## 🧠 About Me
@@ -27,6 +28,7 @@ My current focus is building strong fundamentals in:
 - Web security
 - Security tooling
 - Penetration testing fundamentals
+
 ---
 
 ## 🧪 TryHackMe
@@ -60,6 +62,7 @@ security fundamentals.
     <img src="https://img.shields.io/badge/TryHackMe-amine.sec-212C42?style=for-the-badge&logo=tryhackme" />
   </a>
 </p>
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -73,13 +76,27 @@ security fundamentals.
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-### Networking & Security
+### Reconnaissance & Network Security
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+</p>
+
+### Web Security
+
+<p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square" />
+  <img src="https://img.shields.io/badge/WPScan-21759B?style=flat-square" />
+</p>
+
+### Offensive Security
+
+<p>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hydra-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-222222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hashcat-222222?style=flat-square" />
 </p>
 
 ### Programming & System Tools
@@ -91,3 +108,134 @@ security fundamentals.
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
 </p>
 
+---
+
+## 📚 Currently Learning
+
+I'm currently strengthening my cybersecurity foundations through
+hands-on practice and structured learning.
+
+- Linux internals & system administration
+- TCP/IP networking & protocols
+- Python for security automation
+- Web application security
+- Enumeration & reconnaissance
+- Privilege escalation fundamentals
+- Security tooling & methodology
+- CTF problem solving
+
+---
+
+## 🔬 Labs & Practice
+
+I document my hands-on practice, CTFs, and security experiments
+as I progress.
+
+### 🧪 TryHackMe
+
+- Mr Robot CTF
+- Pickle Rick
+- Simple CTF
+
+### 🐧 Linux & System Labs
+
+- Processes & PIDs
+- Signals
+- Users & groups
+- File permissions
+- Services & system administration
+
+### 🌐 Networking Labs
+
+- TCP / UDP
+- IP & MAC addressing
+- ARP
+- DNS
+- Ports & services
+- Nmap
+- Python sockets
+
+### 🌐 Web Security Labs
+
+- HTTP / HTTPS
+- Requests & responses
+- Cookies & sessions
+- Burp Suite
+- SQL injection fundamentals
+- XSS fundamentals
+
+---
+
+## 🚀 Projects
+
+### 🐍 Python Security & Automation
+
+Small Python projects focused on:
+
+- Network communication
+- Socket programming
+- System interaction
+- Automation
+- Security-related utilities
+
+### 🖥️ Virtual Security Labs
+
+Self-hosted virtual environments used to practice:
+
+- Linux administration
+- Windows security
+- Networking
+- Security tooling
+- Client/server communication
+
+> Projects and documentation will be added as they are built.
+
+---
+
+## 🎯 Current Direction
+
+I'm building toward a strong technical foundation in cybersecurity
+with a focus on understanding systems rather than simply using tools.
+
+My long-term areas of interest include:
+
+- Penetration Testing
+- Red Teaming
+- Reverse Engineering
+- Blue Team / Defensive Security
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amine-sec01&show_icons=true&hide_border=true&theme=transparent" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-sec01&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/amine-sec01">
+  <img src="https://img.shields.io/badge/GitHub-amine--sec01-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://tryhackme.com/p/amine.sec">
+  <img src="https://img.shields.io/badge/TryHackMe-amine.sec-212C42?style=for-the-badge&logo=tryhackme" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Learn. Build. Break. Understand.
+
+</div>
